@@ -1,2 +1,0 @@
-# SatisfatoryGame
-Satisfatory Metaballs
